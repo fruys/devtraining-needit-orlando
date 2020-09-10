@@ -28,7 +28,7 @@ Confirm the record was not inserted</description>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-09-03 13:30:48</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <test display_value="When needed - Past">3abd01912f8b5010a3f09facf699b686</test>
+        <test display_value="3 - Scenario 3 - When needed - Past">3abd01912f8b5010a3f09facf699b686</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>

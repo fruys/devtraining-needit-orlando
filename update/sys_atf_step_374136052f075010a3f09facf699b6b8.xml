@@ -28,7 +28,7 @@ and When needed is not empty</description>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-09-03 01:56:10</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <test display_value="When needed - Future">a821b2052f075010a3f09facf699b6d1</test>
+        <test display_value="3 - Scenario 3 - When needed - Future">a821b2052f075010a3f09facf699b6d1</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>

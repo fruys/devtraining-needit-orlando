@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'Main Scenario 2 ' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="Scenario 2">0a47f96a2f8b1410a3f09facf699b6b0</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 13:41:54</sys_created_on>
+        <sys_id>c00b792e2f8b1410a3f09facf699b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_c00b792e2f8b1410a3f09facf699b6f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 13:41:54</sys_updated_on>
+        <test_suite display_value="Main Scenario 2 ">5984c1aa2f0b1410a3f09facf699b612</test_suite>
+        <watch_list>fruys@ciandt.com,luisc@ciandt.com</watch_list>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>80d81a3adbb810d0e26fd7c8f49619d5</instance_id>
+        <instance_name>dev104289</instance_name>
+        <name>sys_atf_schedule_run_c00b792e2f8b1410a3f09facf699b6f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'Main Scenario 2 ' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="Scenario 2">0a47f96a2f8b1410a3f09facf699b6b0</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-07 13:41:54</sys_created_on><sys_id>c00b792e2f8b1410a3f09facf699b6f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_schedule_run_c00b792e2f8b1410a3f09facf699b6f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-07 13:41:54</sys_updated_on><test_suite display_value="Main Scenario 2 ">5984c1aa2f0b1410a3f09facf699b612</test_suite><watch_list>fruys@ciandt.com,luisc@ciandt.com</watch_list></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>-532363059</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>9e5eea012f075010a3f09facf699b623</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 13:41:54</sys_created_on>
+        <sys_id>1d6b7d2e2f8b1410a3f09facf699b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17468cd3ba70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 13:41:54</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>556b7d2ea48b141089ba1f20a15747ef</update_guid>
+        <update_guid_history>556b7d2ea48b141089ba1f20a15747ef:-532363059</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 13:44:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>56e88319bd8c483ca085ca7a69e44990</sys_id>
+        <sys_metadata>c00b792e2f8b1410a3f09facf699b6f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_c00b792e2f8b1410a3f09facf699b6f7</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_c00b792e2f8b1410a3f09facf699b6f7">1d6b7d2e2f8b1410a3f09facf699b6ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 13:44:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -14,7 +14,7 @@
         <sys_update_name>sys_atf_test_suite_test_998511d52f8b5010a3f09facf699b6f9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-09-03 13:44:19</sys_updated_on>
-        <test display_value="When needed - Today">389ec9912f8b5010a3f09facf699b627</test>
-        <test_suite display_value="When needed Field NeedIt App">ec5511d52f8b5010a3f09facf699b6ea</test_suite>
+        <test display_value="3 - Scenario 3  - When needed - Today">389ec9912f8b5010a3f09facf699b627</test>
+        <test_suite display_value="Scenario 3 -When needed Field NeedIt App">ec5511d52f8b5010a3f09facf699b6ea</test_suite>
     </sys_atf_test_suite_test>
 </record_update>
